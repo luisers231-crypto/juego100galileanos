@@ -1,0 +1,5 @@
+{
+  "name": "100 Galileanos Dicen",
+  "description": "Un juego de trivia para dos jugadores basado en '100 Mexicanos Dijeron', con preguntas sobre ecología humana y relaciones biológicas generadas por IA.",
+  "requestFramePermissions": []
+}
